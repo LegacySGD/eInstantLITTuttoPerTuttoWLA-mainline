@@ -1,0 +1,5 @@
+<ClientConfig>
+	<GameClient name="Tutto Per Tutto WLA" clientCode="mobile" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="TuttoPerTutto" enableFreeSpin="Y" clientversion="1.0" gameId="300-2305-0" />
+	<GameClient name="Tutto Per Tutto WLA" clientCode="tablet" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="TuttoPerTutto" enableFreeSpin="Y" clientversion="1.0" gameId="300-2305-0" />
+	<GameClient name="Tutto Per Tutto WLA" clientCode="desktop" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="TuttoPerTutto" enableFreeSpin="Y" clientversion="1.0" gameId="300-2305-0" />
+</ClientConfig>
